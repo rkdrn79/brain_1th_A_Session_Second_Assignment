@@ -48,5 +48,3 @@
 아래는 결과 이미지의 예시입니다:
 
 ![결과 이미지](./data/result_example.png)
-
-# brain_1th_A_Session_Second_Assignment
