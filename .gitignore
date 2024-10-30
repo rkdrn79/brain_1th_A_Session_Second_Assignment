@@ -1,3 +1,4 @@
 __pycache__
 
 notebooks/*
+src/model/decision_tree_gt.py
